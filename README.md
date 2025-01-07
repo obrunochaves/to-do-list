@@ -68,3 +68,5 @@ Essa é uma aplicação simples de lista de tarefas (“To-Do List”) desenvolv
 Desenvolvido por **Bruno Chaves**.
 
 Acesse o repositório do projeto [aqui](https://github.com/obrunochaves/to-do-list) e sinta-se à vontade para contribuir! 😄
+
+Acesse aqui o deploy [Aqui!](https://to-do-list-psi-bay.vercel.app/)😄
